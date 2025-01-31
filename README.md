@@ -1,16 +1,16 @@
 &#xa0;
 
-<h1 align="center">Angular Starter Kit</h1>
+<h1 align="center">Angular Starter Template</h1>
 
 <p align="center">
 
-<img alt="GitHub Top Language Badge" src="https://img.shields.io/github/languages/top/wilsonsouto/angular-starter-kit?&color=56BEB8"/>
+<img alt="GitHub Top Language Badge" src="https://img.shields.io/github/languages/top/wilsonsouto/angular-starter-template?&color=56BEB8"/>
 
-<img alt="GitHub Language Count Badge" src="https://img.shields.io/github/languages/count/wilsonsouto/angular-starter-kit?&color=56BEB8"/>
+<img alt="GitHub Language Count Badge" src="https://img.shields.io/github/languages/count/wilsonsouto/angular-starter-template?&color=56BEB8"/>
 
-<img alt="GitHub Repository Size Badge" src="https://img.shields.io/github/repo-size/wilsonsouto/angular-starter-kit?&color=56BEB8"/>
+<img alt="GitHub Repository Size Badge" src="https://img.shields.io/github/repo-size/wilsonsouto/angular-starter-template?&color=56BEB8"/>
 
-<img alt="Github License Badge" src="https://img.shields.io/github/license/wilsonsouto/angular-starter-kit?color=56BEB8">
+<img alt="Github License Badge" src="https://img.shields.io/github/license/wilsonsouto/angular-starter-template?color=56BEB8">
 
 </p>
 
@@ -54,10 +54,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wilsonsouto/angular-starter-kit
+$ git clone https://github.com/wilsonsouto/angular-starter-template
 
 # Access
-$ cd angular-starter-kit
+$ cd angular-starter-template
 
 # Install dependencies
 $ npm install
