@@ -28,7 +28,7 @@
 
 ## :dart: About
 
-The Angular Starter Kit is a starting point for web application development. It provides an initial structure with basic configurations and functionalities already implemented, allowing you to start development quickly.
+The Angular Starter Kit provides a pre-configured structure with essential functionalities, enabling quick web application development
 
 ## :sparkles: Features
 
