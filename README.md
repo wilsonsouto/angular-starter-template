@@ -28,7 +28,7 @@
 
 ## :dart: About
 
-The Angular Starter Kit provides a pre-configured structure with essential functionalities, enabling quick web application development
+This template provides a pre-configured structure and essential features, accelerating web application development from the start.
 
 ## :sparkles: Features
 
