@@ -32,10 +32,10 @@ This template provides a pre-configured structure and essential features, accele
 
 ## :sparkles: Features
 
-:heavy_check_mark: Clean and organized for immediate use;\
-:heavy_check_mark: Prettier plugin and configurations for maintaining code organization and formatting;\
-:heavy_check_mark: Defined color variables for consistent styling throughout the project;\
-:heavy_check_mark: Pre-configured with angular-cli-ghpages for easy deployment to GitHub Pages;
+:heavy_check_mark: Clean and organized for immediate use.\
+:heavy_check_mark: Prettier plugin and configurations for maintaining code organization and formatting.\
+:heavy_check_mark: Defined color variables for consistent styling throughout the project.\
+:heavy_check_mark: Pre-configured with angular-cli-ghpages for easy deployment to GitHub Pages.
 
 ## :rocket: Technologies
 
@@ -56,7 +56,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/wilsonsouto/angular-starter-template
 
-# Access
+# Access the project folder
 $ cd angular-starter-template
 
 # Install dependencies
