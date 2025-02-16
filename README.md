@@ -1,8 +1,8 @@
 &#xa0;
 
-<!-- <h1 align="center">
+<!-- <h4 align="center">
 	🚧  Angular Starter Template 🚀 Under construction...  🚧
-</h1>  -->
+</h4>  -->
 
 <h1 align="center">Angular Starter Template</h1>
 
